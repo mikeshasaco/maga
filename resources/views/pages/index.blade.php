@@ -627,11 +627,13 @@
                 <div class="col-lg-6">
                     <h3 style="color:black;">Meet The Leader Of the ConeHead Community</h3>
                     <ul style="line-height: 120px;">
-                        <p style="font-size:20px; color:black;" >Meet ($jowak) just a degen trying to get laid </p> 
+                      <p style=" font-size:30px;">
+                      Jowak was trying to create the latest shitcoin with his gay degen friends and instead of sending 69% to himself he accidentally locked it for 4200 years. Now him and his fat fucking forehead are sitting on the couch trying to rally the rest of the fags to grab supply.</p>
+                        <!-- <p style="font-size:20px; color:black;" >Meet ($jowak) just a degen not trying to get laid </p> 
                         <p style="font-size:20px; color:black;" >Growing a community of Degens </p> 
                         <p style="font-size:20px; color:black;" >Launching on Solana</p> 
-                        <p style="font-size:20px; color:black;" >Jowak accidently locked way 80% of the supply for 4000 years!</p> 
-                        <p style="font-size:20px; color:black;" >Jowak the cousin of wojak is bringing a new excitement to the solana community.</p> 
+                        <p style="font-size:20px; color:black;" >Jowak accidently locked way 69% of the supply for 4200 years!</p> 
+                        <p style="font-size:20px; color:black;" >Jowak the cousin of wojak is bringing a new excitement to the solana community.</p>  -->
 
                         
                     
@@ -650,142 +652,6 @@
 
 
 
-
-
-<div class="timeline" style="background-color:white;">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="timeline-container">
-          <div class="timeline-end">
-            <p>Now</p>
-          </div>
-          <div class="timeline-continue">
-
-            <div class="row timeline-right">
-              <div class="col-md-6">
-                <p class="timeline-date" style="color:#fba0e3">
-                  Phase 1
-                </p>
-              </div>
-              <div class="col-md-6">
-                <div class="timeline-box">
-                  <div class="timeline-icon">
-                    <!-- <i class="fa fa-gift"></i> -->
-                  </div>
-                  <div class="timeline-text">
-                    <h3 style="color:white;">Phase 1</h3>
-                    <ul>
-                                <li style="color:white;"> Growth </li>
-                                <!-- <li style="color:white;"> Release Merch</li> -->
-                                <!-- <li> Community is very important first step in our road, we want to build a community that is genuine and that want to help one another.</li> -->
-                               <li style="color:white;">First step is building community</li>
-
-                              
-                            </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row timeline-left">
-              <div class="col-md-6 d-md-none d-block">
-                <p class="timeline-date">
-                  Growth
-                </p>
-              </div>
-              <div class="col-md-6">
-                <div class="timeline-box">
-                  <div class="timeline-icon d-md-none d-block">
-                    <!-- <i class="fa fa-business-time"></i> -->
-                  </div>
-                  <div class="timeline-text">
-                  <h3 style="color:white;">Partnership</h3>
-
-                  <ul>
-                        <li style="color:white;">Partnering with big influencers in the crypto space.</li>
-                 </ul>
-                  </div>
-                  <div class="timeline-icon d-md-block d-none">
-                    <!-- <i class="fa fa-business-time"></i> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 d-md-block d-none">
-                <p class="timeline-date"  style="color:#fba0e3">
-                  Phase 2
-                </p>
-              </div>
-            </div>
-
-       
-
-            <div class="row timeline-right">
-              <div class="col-md-6">
-                <p class="timeline-date"  style="color:#fba0e3">
-                  Phase 3
-                </p>
-              </div>
-              <div class="col-md-6">
-                <div class="timeline-box">
-                  <div class="timeline-icon">
-                    <!-- <i class="fa fa-briefcase"></i> -->
-                  </div>
-                  <div class="timeline-text">
-                    <h3 style="color:white;">Development</h3>
-                    <ul>
-                          <li style="color:white;">Building on the solana ecosystem.</li>
-                    </ul>
-                    </div>
-                </div>
-              </div>
-            </div>
-
-
-
-
-            <!-- <div class="row timeline-left">
-              <div class="col-md-6 d-md-none d-block">
-                <p class="timeline-date">
-                  Growth
-                </p>
-              </div>
-              <div class="col-md-6">
-                <div class="timeline-box">
-                  <div class="timeline-icon d-md-none d-block">
-                  </div>
-                  <div class="timeline-text">
-                  <h3 style="color:white;">Expansion</h3>
-
-                  <ul>
-                        <li style="color:white;">We want our community to be able to earn reward on the Solana Realm digital card game, so we will
-                      be releasing wager matches, where players can battle amongst each other for $IVM tokens! </li>
-                 </ul>
-                  </div>
-                  <div class="timeline-icon d-md-block d-none">
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 d-md-block d-none">
-                <p class="timeline-date"  style="color:#fba0e3">
-                  Phase 4
-                </p>
-              </div>
-            </div> -->
-
-
-            
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-   
 
 
 
