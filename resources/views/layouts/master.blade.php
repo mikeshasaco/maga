@@ -8,7 +8,7 @@
 
 
     <!-- Webpage Title -->
-    <title>MAGA</title>
+    <title>JOWAK</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -44,10 +44,10 @@
                 <ul class="navbar-nav ml-auto">
                    
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://x.com/MAGASOLANA1"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://x.com/jowaksol"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://t.me/+R0FATgdTbUJiNDU5"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://t.me/jowaksolana"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
                     </li>
               
                 </ul>
