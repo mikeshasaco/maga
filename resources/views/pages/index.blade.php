@@ -238,7 +238,7 @@
   --color2: rgb(255, 0, 231);
   
   width: 320px;
-  height: 200px;
+  height: 500px;
   /* background-color: #FFD700; */
   background-size: 100%;
   background-repeat: no-repeat;
@@ -263,7 +263,7 @@
 .cardone.redmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("maga.jpg");
+  background-image: url("author.jpg");
 
 }
 .cardone.bluemask {
@@ -302,7 +302,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("maga.jpg");
+  background-image: url("author.jpg");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -602,7 +602,7 @@
                     <div class="cardone cardverse">
 
                     </div>
-                    <h3 style="color:white; font-weight:bold; text-align:center;">MANATEE APE GOAT ABDUCTION ($MAGA)</h3>
+                    <!-- <h3 style="color:black; font-weight:bold; text-align:center;">Meet The leader of the ConeHead Community Willis.</h3> -->
 
                 </div> <!-- end of div -->
                
@@ -614,7 +614,7 @@
 
 
     <!-- Takeaways -->
-    <div class="basic-1 " style="background-color:black">
+    <div class="basic-1 " style="background-color:white">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -625,11 +625,13 @@
                 </div>
                 
                 <div class="col-lg-6">
-                    <h3 style="color:#fba0e3">MANATEE APE GOAT ABDUCTION ($MAGA)</h3>
+                    <h3 style="color:black;">Meet The Leader Of the ConeHead Community</h3>
                     <ul style="line-height: 120px;">
-                        <p style="font-size:20px; color:white;" >MANATEE APE GOAT ABDUCTION ($MAGA) Launching on Solana</p> 
-                        <p style="font-size:20px; color:white;" >We are going to the moon 1000X</p> 
-                        <p style="font-size:20px; color:white;" >MAGA is going to the moon on Solana</p> 
+                        <p style="font-size:20px; color:black;" >Meet ($jowak) just a degen trying to get laid </p> 
+                        <p style="font-size:20px; color:black;" >Growing a community of Degens </p> 
+                        <p style="font-size:20px; color:black;" >Launching on Solana</p> 
+                        <p style="font-size:20px; color:black;" >Jowak accidently locked way 80% of the supply for 4000 years!</p> 
+                        <p style="font-size:20px; color:black;" >Jowak the cousin of wojak is bringing a new excitement to the solana community.</p> 
 
                         
                     
@@ -650,7 +652,7 @@
 
 
 
-<div class="timeline" style="background-color:black;">
+<div class="timeline" style="background-color:white;">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -733,7 +735,7 @@
                   <div class="timeline-text">
                     <h3 style="color:white;">Development</h3>
                     <ul>
-                          <li style="color:white;">Building a meme AI crypto space that intergrates with multiple memes across the solana ecosystem.</li>
+                          <li style="color:white;">Building on the solana ecosystem.</li>
                     </ul>
                     </div>
                 </div>
@@ -793,7 +795,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                <h3 style="text-align:center; color:#fba0e3;">$MAGA</h3>
+                <h3 style="text-align:center; color:black;">$Jowak</h3>
 
                     <!-- Card Slider -->
                     <div class="slider-container">

@@ -19,7 +19,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="maga.jpg">
+    <link rel="icon" href="cone.jpg">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -33,7 +33,7 @@
             <!-- Image Logo -->
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
             <!-- <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Unknown</a> -->
-            <a class="nav-link page-scroll" href="https://twitter.com/RealmSolana"> <img src="maga.jpg" height="50px" width="50px" alt=""> </a>
+            <a class="nav-link page-scroll" href="https://twitter.com/RealmSolana"> <img src="cone.jpg" height="50px" width="50px" alt=""> </a>
 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
