@@ -238,9 +238,9 @@
   --color2: rgb(255, 0, 231);
   
   width: 320px;
-  height: 500px;
+  height: 284px;
   /* background-color: #FFD700; */
-  background-size: 100%;
+  background-size: 117%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -263,13 +263,13 @@
 .cardone.redmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("author.jpg");
+  background-image: url("sundae.jpg");
 
 }
 .cardone.bluemask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("blue.png");
+  background-image: url("sundae.jpg");
 
 }
 
@@ -302,7 +302,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("author.jpg");
+  background-image: url("sundae.jpg");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -625,10 +625,13 @@
                 </div>
                 
                 <div class="col-lg-6">
-                    <h3 style="color:black;">Meet The Leader Of the ConeHead Community</h3>
+                    <h3 style="color:black;">Sundae on Tron</h3>
                     <ul style="line-height: 120px;">
-                      <p style=" font-size:30px;">
-                      Jowak was trying to create the latest shitcoin with his gay degen friends and instead of sending 69% to himself he accidentally locked it for 4200 years. Now him and his fat fucking forehead are sitting on the couch trying to rally the rest of the fags to grab supply.</p>
+                      <p style=" font-size:30px;">Sundae Funday launching on Tron!</p>
+                      <p style=" font-size:30px;">ticker: $sundae</p>
+                      <p style=" font-size:30px;">Max Supply: 1 Billion MC</p>
+                      <p style=" font-size:30px;">Tax: 0/0</p>
+
                         <!-- <p style="font-size:20px; color:black;" >Meet ($jowak) just a degen not trying to get laid </p> 
                         <p style="font-size:20px; color:black;" >Growing a community of Degens </p> 
                         <p style="font-size:20px; color:black;" >Launching on Solana</p> 
