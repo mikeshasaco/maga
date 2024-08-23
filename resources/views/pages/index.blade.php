@@ -664,7 +664,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                <h3 style="text-align:center; color:black;">$Jowak</h3>
+                <h3 style="text-align:center; color:red;">Sundae</h3>
 
                     <!-- Card Slider -->
                     <div class="slider-container">
